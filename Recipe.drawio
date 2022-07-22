@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:12:12.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" version="20.1.4" etag="aT8aBOF-v0KbfS5fdkny" type="github"><diagram id="CJhRo5ARBGHWi4SmdeIi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:26:53.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="zNllyp4tXi30ilgZVxxH" version="20.1.4" type="github">
+  <diagram id="CJhRo5ARBGHWi4SmdeIi" name="Страница 1">
+    <mxGraphModel dx="1185" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MZlgHCXasomIC_yRRkuz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.413;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MZlgHCXasomIC_yRRkuz-1" target="MZlgHCXasomIC_yRRkuz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZlgHCXasomIC_yRRkuz-1" target="MZlgHCXasomIC_yRRkuz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-1" value="рецепты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZlgHCXasomIC_yRRkuz-2" target="MZlgHCXasomIC_yRRkuz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-6" value="1..1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZlgHCXasomIC_yRRkuz-5">
+          <mxGeometry x="0.0213" y="2" relative="1" as="geometry">
+            <mxPoint x="29" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-2" value="рецепты 107" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-3" value="Льготные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZlgHCXasomIC_yRRkuz-4" target="MZlgHCXasomIC_yRRkuz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.225;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MZlgHCXasomIC_yRRkuz-4" target="MZlgHCXasomIC_yRRkuz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-4" value="назначения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-9" value="Схема" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZlgHCXasomIC_yRRkuz-10" value="Препарат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
